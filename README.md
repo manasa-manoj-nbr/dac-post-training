@@ -1,14 +1,16 @@
 # Task 2 — DAC Post-Training for Indic Speech
 
-**Codec selected:** Descript Audio Codec (DAC) · 16 kHz  
+**Codec selected:** Descript Audio Codec (DAC) · 16 kHz
+
 **Language:** Hindi (IndicVoices dataset)  
+
 **Approach:** Lightweight post-filter network trained on top of a frozen DAC encoder-decoder  
+
 ---
 
 ## Table of Contents
 
 - [Task 2 — DAC Post-Training for Indic Speech](#task-2--dac-post-training-for-indic-speech)
-  - [**Approach:** Lightweight post-filter network trained on top of a frozen DAC encoder-decoder](#approach-lightweight-post-filter-network-trained-on-top-of-a-frozen-dac-encoder-decoder)
   - [Table of Contents](#table-of-contents)
   - [1. Motivation \& Codec Selection](#1-motivation--codec-selection)
   - [2. Approach Overview](#2-approach-overview)
