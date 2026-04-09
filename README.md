@@ -3,13 +3,12 @@
 **Codec selected:** Descript Audio Codec (DAC) · 16 kHz  
 **Language:** Hindi (IndicVoices dataset)  
 **Approach:** Lightweight post-filter network trained on top of a frozen DAC encoder-decoder  
-**Hardware:** NVIDIA GPU (Colab, CUDA 12.1)
-
 ---
 
 ## Table of Contents
 
 - [Task 2 — DAC Post-Training for Indic Speech](#task-2--dac-post-training-for-indic-speech)
+  - [**Approach:** Lightweight post-filter network trained on top of a frozen DAC encoder-decoder](#approach-lightweight-post-filter-network-trained-on-top-of-a-frozen-dac-encoder-decoder)
   - [Table of Contents](#table-of-contents)
   - [1. Motivation \& Codec Selection](#1-motivation--codec-selection)
   - [2. Approach Overview](#2-approach-overview)
@@ -31,7 +30,6 @@
     - [Data Setup](#data-setup)
     - [Running the Notebook](#running-the-notebook)
     - [Output Artifacts](#output-artifacts)
-  - [| `detailed_metrics_noisy.csv` | Per-chunk metrics (noisy) |](#-detailed_metrics_noisycsv--per-chunk-metrics-noisy-)
   - [References](#references)
 
 ---
